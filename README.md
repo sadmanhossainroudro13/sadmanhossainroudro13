@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Roudro
 
-<!--
-**sadmanhossainroudro13/sadmanhossainroudro13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter Developer & Problem Solver
 
-Here are some ideas to get you started:
+I build mobile applications using Flutter and solve algorithmic problems to improve my logic and coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* Flutter & Dart
+* Firebase (Firestore)
+* REST APIs
+* Git & GitHub
+
+---
+
+## 📱 Projects
+
+### 🛒 DIU Swap – Marketplace App
+
+A campus-based buy & sell app for students
+
+🔗 Repository: https://github.com/sadmanhossainroudro13/Project_DIU_SWAP.git 
+
+* Product posting with image upload (Cloudinary)
+* Real-time data handling using Firebase
+* Search and category-based filtering
+* Clean and responsive UI
+
+---
+
+## 💡 Problem Solving
+
+* Solving problems on LeetCode
+* Focused on Data Structures & Algorithms
+* Improving consistency and logic building
+
+---
+
+## 🎯 Current Focus
+
+* Flutter app development
+* State management (Provider)
+* Building real-world projects
+
+---
+
+## 📫 Contact
+
+* Email: [shadmanroudro@gmail.com](mailto:shadmanroudro@gmail.com)
